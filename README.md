@@ -3,6 +3,9 @@
 ## Proje Özeti
 Bu proje, kapı zilinin sesini algılayarak Arduino Nano ve Arduino Uno modülleri arasında Bluetooth veya kablolu seri iletişim yoluyla veri gönderen bir uyarı sistemi geliştirmeyi amaçlamaktadır. Kullanıcı kapı zilini duymasa bile, oda modülünde görsel ve işitsel uyarılarla kapı zilinin çaldığı anlaşılmaktadır.
 
+## Youtube Video Bağlantısı
+https://youtu.be/ZfFl1yQ0YCo?feature=shared
+
 ## Donanım Bileşenleri
 - Arduino Nano (Kapı Modülü)
 - Arduino Uno (Oda Modülü)
